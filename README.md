@@ -9,6 +9,7 @@ Features:
 - Real-time graph visualization with path highlighting
 - Shows visited nodes, final path, and total cost
 
+Libraries and Tools:
 - tkinter - built-in GUI support
 - customtkinter - modern styled GUI components
 - matplotlib - graph visualization
