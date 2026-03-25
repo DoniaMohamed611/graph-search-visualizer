@@ -16,5 +16,7 @@ Libraries Used
  networkx - graph data structure
 
 To Run the project:
+```
 pip install -r requirements.txt
 python main.py
+```
