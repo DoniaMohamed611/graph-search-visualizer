@@ -1,4 +1,4 @@
-Petal Graph Search Visualizer
+**Petal Graph Search Visualizer**
 
 An interactive graph search system built with Python that lets you visualize how different search algorithms explore a graph in real time.
 
@@ -17,3 +17,4 @@ Libraries Used
 
 To Run the project:
 pip install -r requirements.txt
+python main.py
