@@ -21,4 +21,4 @@ pip install matplotlib networkx
 
 
 2. Run the project:
-python main.py
+pip install -r requirements.txt
